@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pueblos-magicos-teapa/static/css/main.11b0a69b.css",
+    "main.js": "/pueblos-magicos-teapa/static/js/main.6ca7da37.js",
+    "static/media/cascadas2.jpg": "/pueblos-magicos-teapa/static/media/cascadas2.2c749ab48f7135b9c194.jpg",
+    "static/media/historia.jpg": "/pueblos-magicos-teapa/static/media/historia.b637e1b4814d131895d3.jpg",
+    "static/media/cascadas1.jpg": "/pueblos-magicos-teapa/static/media/cascadas1.386cc2c273c695b3a761.jpg",
+    "static/media/mone.jpg": "/pueblos-magicos-teapa/static/media/mone.ec7abc25747aaadfaf91.jpg",
+    "static/media/feria.jpg": "/pueblos-magicos-teapa/static/media/feria.c23723d6b4c16e2d4958.jpg",
+    "static/media/grutas.jpg": "/pueblos-magicos-teapa/static/media/grutas.c2f01a2ac893a6e23983.jpg",
+    "static/media/puchero.jpg": "/pueblos-magicos-teapa/static/media/puchero.cf233441368f60417454.jpg",
+    "static/media/fiesta.jpg": "/pueblos-magicos-teapa/static/media/fiesta.c8c0e2351291b74fbaeb.jpg",
+    "static/media/fatima.jpg": "/pueblos-magicos-teapa/static/media/fatima.4d15a0a06c69ea32c6f6.jpg",
+    "static/media/hcerros.jpg": "/pueblos-magicos-teapa/static/media/hcerros.a5e6f0579d935ee2ee36.jpg",
+    "static/media/nombramiento.jpg": "/pueblos-magicos-teapa/static/media/nombramiento.18453e6eac2827973576.jpg",
+    "static/media/carnaval.jpg": "/pueblos-magicos-teapa/static/media/carnaval.5571488ede5d74924a27.jpg",
+    "static/media/teapalogo.jpg": "/pueblos-magicos-teapa/static/media/teapalogo.6ac87bc24a9ff6908fe2.jpg",
+    "static/media/tamales.jpg": "/pueblos-magicos-teapa/static/media/tamales.46857812c30e6dba5758.jpg",
+    "static/media/Romulo.jpg": "/pueblos-magicos-teapa/static/media/Romulo.70aced709d64e8a9f193.jpg",
+    "static/media/tren.jpg": "/pueblos-magicos-teapa/static/media/tren.4109c5526a72ba53bfb0.jpg",
+    "static/media/hsultana.jpg": "/pueblos-magicos-teapa/static/media/hsultana.8c5cd1258ac78ef9a6af.jpg",
+    "static/media/principal.jpg": "/pueblos-magicos-teapa/static/media/principal.48052f092c0cc3846f4e.jpg",
+    "static/media/hquintero.jpg": "/pueblos-magicos-teapa/static/media/hquintero.c0968fc9683dc21edd56.jpg",
+    "static/media/Elizabet.jpg": "/pueblos-magicos-teapa/static/media/Elizabet.b7a89dd91e8bf6539282.jpg",
+    "static/media/fundacion.jpg": "/pueblos-magicos-teapa/static/media/fundacion.abdda92cc97c05979e93.jpg",
+    "index.html": "/pueblos-magicos-teapa/index.html",
+    "main.11b0a69b.css.map": "/pueblos-magicos-teapa/static/css/main.11b0a69b.css.map",
+    "main.6ca7da37.js.map": "/pueblos-magicos-teapa/static/js/main.6ca7da37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b0a69b.css",
+    "static/js/main.6ca7da37.js"
+  ]
+}

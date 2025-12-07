@@ -1,0 +1,99 @@
+.header {
+  background: white;
+  padding: 15px 20px;
+  border-bottom: 1px solid #e0e0e0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.back-button {
+  background: transparent;
+  border: none;
+  color: #2962ff;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 5px 0;
+  text-align: left;
+  transition: opacity 0.3s;
+}
+
+.back-button:hover {
+  opacity: 0.7;
+}
+
+.header-logo-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-container {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-logo-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.header-text {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.header-pueblos {
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #333;
+  letter-spacing: 0.5px;
+}
+
+.header-teapa {
+  font-size: 18px;
+  font-weight: 800;
+  color: #000;
+  letter-spacing: 1px;
+}
+
+.header-title {
+  font-size: 20px;
+  font-weight: 800;
+  color: #000;
+  margin: 5px 0 0 0;
+  letter-spacing: 0.5px;
+}
+
+.home-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 5px;
+  transition: transform 0.3s;
+}
+
+.home-button:hover {
+  transform: scale(1.1);
+}

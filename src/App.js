@@ -18,7 +18,7 @@ import './styles/App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/pueblos-magicos-teapa">
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />

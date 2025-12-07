@@ -8,8 +8,7 @@ const BottomNav = ({ items }) => {
 
   const defaultItems = [
     { label: 'Festividades', path: '/festividades', icon: '🎉' },
-    { label: 'Hoteles', path: '/hoteles', icon: '🏨' },
-    { label: 'Artesanías', path: '/artesanias', icon: '🎨' }
+    { label: 'Hoteles', path: '/hoteles', icon: '🏨' }
   ];
 
   const navItems = items || defaultItems;

@@ -15,8 +15,7 @@ const HotelDetail = () => {
 
   const navItems = [
     { label: 'Festividades', path: '/festividades', icon: '🎉' },
-    { label: 'Tours', path: '/tours', icon: '🗺️' },
-    { label: 'Artesanías', path: '/artesanias', icon: '🎨' }
+    { label: 'Tours', path: '/tours', icon: '🗺️' }
   ];
 
   return (

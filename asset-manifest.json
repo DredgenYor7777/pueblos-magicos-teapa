@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pueblos-magicos-teapa/static/css/main.11b0a69b.css",
+    "main.css": "/pueblos-magicos-teapa/static/css/main.df4dd7ff.css",
     "main.js": "/pueblos-magicos-teapa/static/js/main.d9337141.js",
     "static/media/cascadas2.jpg": "/pueblos-magicos-teapa/static/media/cascadas2.2c749ab48f7135b9c194.jpg",
     "static/media/historia.jpg": "/pueblos-magicos-teapa/static/media/historia.b637e1b4814d131895d3.jpg",
@@ -24,11 +24,11 @@
     "static/media/Elizabet.jpg": "/pueblos-magicos-teapa/static/media/Elizabet.b7a89dd91e8bf6539282.jpg",
     "static/media/fundacion.jpg": "/pueblos-magicos-teapa/static/media/fundacion.abdda92cc97c05979e93.jpg",
     "index.html": "/pueblos-magicos-teapa/index.html",
-    "main.11b0a69b.css.map": "/pueblos-magicos-teapa/static/css/main.11b0a69b.css.map",
+    "main.df4dd7ff.css.map": "/pueblos-magicos-teapa/static/css/main.df4dd7ff.css.map",
     "main.d9337141.js.map": "/pueblos-magicos-teapa/static/js/main.d9337141.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b0a69b.css",
+    "static/css/main.df4dd7ff.css",
     "static/js/main.d9337141.js"
   ]
 }
